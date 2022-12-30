@@ -1,5 +1,5 @@
 // import "Your code here";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import DisplayTimer from "./DisplayTimer";
 
 function App() {
